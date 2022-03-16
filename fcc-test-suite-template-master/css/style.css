@@ -1,0 +1,29 @@
+.Navbar {
+    display:flex;
+    flex-direction: row;
+    background-color: aqua;
+    height:60px;
+    width: auto;
+}
+.Welcomesection {
+    
+    background-color:black;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+#WelcomeA {
+    flex: 1;
+    background-color: rgb(184, 58, 58);
+    height: 100%;
+
+    
+    
+
+}
+#WelcomeB {
+    flex: 2;
+    background-color: white;
+    height: 60px;
+}
